@@ -1,4 +1,6 @@
-# matterbridge
+# matterbridge 
+
+[![Apache License](https://img.shields.io/:license-Apache%20License%20(ASL)-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 Simple bridge between mattermost and IRC. Uses the in/outgoing webhooks.  
 Relays public channel messages between mattermost and IRC.  
